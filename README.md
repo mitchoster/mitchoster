@@ -13,6 +13,7 @@ your hands while you play.
 | Repository | What it is |
 | --- | --- |
 | [mpc-vst-djfx](https://github.com/mitchoster/mpc-vst-djfx) | One-slot live DJ effect: 3-band isolator, DJ filter, beat repeat, delay, reverb, through-zero flanger, limiter, and a macro layer that rides them together. Device tested on an MPC Live II. |
+| [mpc-vst-tape-echo](https://github.com/mitchoster/mpc-vst-tape-echo) | Three-head tape echo with a spring tank: 12 head and reverb modes, tape saturation, wow and flutter, tempo sync. Measured at 19.8% of a 2.9 ms audio block on an MPC Live II. |
 
 In progress: DjFx2 — grain stage, true-peak limiter, macro curves fitted to measurements of the
 original rack.
