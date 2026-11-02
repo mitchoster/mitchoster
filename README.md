@@ -12,11 +12,12 @@ your hands while you play.
 
 | Repository | What it is |
 | --- | --- |
-| [mpc-vst-djfx](https://github.com/mitchoster/mpc-vst-djfx) | One-slot live DJ effect: 3-band isolator, DJ filter, beat repeat, delay, reverb, through-zero flanger, limiter, and a macro layer that rides them together. Device tested on an MPC Live II. |
+| [mpc-vst-djfx2](https://github.com/mitchoster/mpc-vst-djfx2) | One-slot DJ insert effect: 3-band isolator, DJ filter, beat repeat, delay, plate/hall reverb, through-zero flanger, grain delay, true-peak limiter, and eight macros fitted to measurements of the original rack. Three interfaces, plus a companion screen in the browser. Device tested on an MPC Live II. |
 | [mpc-vst-tape-echo](https://github.com/mitchoster/mpc-vst-tape-echo) | Three-head tape echo with a spring tank: 12 head and reverb modes, tape saturation, wow and flutter, tempo sync. Measured at 19.8% of a 2.9 ms audio block on an MPC Live II. |
+| [mpc-vst-multihead-echo](https://github.com/mitchoster/mpc-vst-multihead-echo) | Multi-head tape echo with a joggable playhead: three preamp characters, chorus, tape wear (drift, dropouts, hiss), stereo spread, tempo sync with drift and a spring reverb — plus a companion screen in the browser. Device tested on an MPC Live II. |
 
-In progress: DjFx2 — grain stage, true-peak limiter, macro curves fitted to measurements of the
-original rack.
+Every one of them also serves a **companion screen**: a page the plugin itself hands out on the LAN, so
+the dense part of the interface lives on a phone or tablet while the device keeps drawing its own skin.
 
 ## How these are built
 
