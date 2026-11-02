@@ -30,6 +30,9 @@ the dense part of the interface lives on a phone or tablet while the device keep
   (MIT), which supplies the VST2 wrapper, the parameter generator and the skin tooling.
 - Every device claim in these repositories names the device and the firmware version, and the date it was
   tested.
+- The notes behind all of this are public: **[MPC & Force plugin development — field
+  notes](https://mitchoster.github.io/mpc-vst-dev-guide/)** — the build, the device, the screen, the
+  tests, the ship and the traps, written from what actually cost time.
 
 Not affiliated with Akai Professional or inMusic. Product names are used only to say what the software
 runs on.
